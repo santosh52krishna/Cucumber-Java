@@ -1,0 +1,1 @@
+{"DesktopWindowsChrome":["YPO.feature"],"DesktopWindowsMozilla":["YPO.feature"],"DesktopMacSafari":[],"DesktopMacOpera":[],"MobileAndroidChrome":["YPO.feature"],"MobileIOSSafari":["YPO.feature"]}
