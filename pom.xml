@@ -6,6 +6,8 @@
 	<packaging>war</packaging>
 	<name>YPO-UI-Automation</name>
 	<version>1.0</version>
+	
+	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<googlchromedriverbinary.version>2.9</googlchromedriverbinary.version>
